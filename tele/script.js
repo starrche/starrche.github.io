@@ -1,5 +1,5 @@
-function setup()
-{
+// function setup()
+// {
   var slideIndex = 1;
   showSlides(slideIndex);
 
@@ -31,4 +31,4 @@ function setup()
     captionText.innerHTML = dots[slideIndex-1].alt;
   }
 
-}
+// }
